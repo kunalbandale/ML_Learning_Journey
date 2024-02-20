@@ -1,0 +1,27 @@
+position,level,salary
+Entry Level,1,30000
+Junior,2,30000
+Associate,3,30000
+Analyst,4,55000
+Senior Analyst,5,70000
+Specialist,6,75000
+Consultant,7,80000
+Manager,8,85000
+Senior Manager,9,90000
+Director,10,95000
+Senior Director,11,80000
+Executive,12,85000
+Senior Executive,13,90000
+Vice President,14,95000
+Senior Vice President,15,100000
+President,16,100000
+Senior President,17,130000
+CEO,18,130000
+Senior CEO,19,140000
+Chairman,20,145000
+Senior Chairman,21,130000
+Founder,22,135000
+Senior Founder,23,140000
+Partner,24,145000
+Senior Partner,25,150000
+Chief,26,155000
